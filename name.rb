@@ -1,3 +1,5 @@
 print "State your name please: "
-    name = gets 
+    name = gets
+    10.times do
 puts "Hello " + name 
+    end
