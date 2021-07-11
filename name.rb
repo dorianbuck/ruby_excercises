@@ -1,4 +1,3 @@
-
-    print "State your name please: "
+print "State your name please: "
     name = gets 
- puts "Hello " + name 
+puts "Hello " + name 
