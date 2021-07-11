@@ -1,4 +1,4 @@
-name =""
 
-name << "John " << "Doe"
-print name
+    print "State your name please: "
+    name = gets 
+ puts "Hello " + name 
